@@ -16,7 +16,7 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 **Check All Movies Page:** Navigate between pages with ease using buttons or the slider.
 
 
-[Screenshot_30-8-2025_125938_github com](https://github.com/user-attachments/assets/e89534db-59f2-4003-ab9f-1dd3da64aa12)
+![Screenshot_30-8-2025_125938_github com](https://github.com/user-attachments/assets/e89534db-59f2-4003-ab9f-1dd3da64aa12)
 
 
 ## Watch the Demo
@@ -24,11 +24,6 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 For a live demonstration of our Movie Recommender System, watch the following video:
 (https://img.youtube.com/vi/0BJgu4qZqOM/0.jpg)](https://youtu.be/0BJgu4qZqOM)
 
-
-## Try the App
-
-Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. Click the link below to get started:
-[**Movie Recommender System App**]
 
 ## Installation Guide
 
