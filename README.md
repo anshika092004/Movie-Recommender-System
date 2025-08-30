@@ -8,22 +8,23 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 
 ## Sample Application Screenshots
 
-
-![Sample Image 1]
-![Sample Image 2]
+![Sample Image 1] ![Screenshot_30-8-2025_12593_github com](https://github.com/user-attachments/assets/b0299fd0-5e34-468e-9631-f897bb90636c)
+![Sample Image 2] ![Screenshot_30-8-2025_125927_github com](https://github.com/user-attachments/assets/d810ad73-a487-4d5b-89c1-2c09830e1c2f)
 
 
 **Description Page:** Explore essential movie details and information about the cast.
 
 
-![Sample Image 3]
+![Sample Image 3] 
+
 ![Sample Image 4]
 
 
 **Check All Movies Page:** Navigate between pages with ease using buttons or the slider.
 
 
-![Sample Image 5]
+![Sample Image 5]![Screenshot_30-8-2025_125938_github com](https://github.com/user-attachments/assets/e89534db-59f2-4003-ab9f-1dd3da64aa12)
+
 
 ## Watch the Demo
 
