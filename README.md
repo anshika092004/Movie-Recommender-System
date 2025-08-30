@@ -8,8 +8,8 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 
 ## Sample Application Screenshots
 
-![Sample Image 1] ![Screenshot_30-8-2025_12593_github com](https://github.com/user-attachments/assets/b0299fd0-5e34-468e-9631-f897bb90636c)
-![Sample Image 2] ![Screenshot_30-8-2025_125927_github com](https://github.com/user-attachments/assets/d810ad73-a487-4d5b-89c1-2c09830e1c2f)
+ ![Screenshot_30-8-2025_12593_github com](https://github.com/user-attachments/assets/b0299fd0-5e34-468e-9631-f897bb90636c)
+![Screenshot_30-8-2025_125927_github com](https://github.com/user-attachments/assets/d810ad73-a487-4d5b-89c1-2c09830e1c2f)
 
 
 **Description Page:** Explore essential movie details and information about the cast.
